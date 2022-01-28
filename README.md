@@ -18,7 +18,7 @@ O front-end deve ser construído utilizando JavaScript puro ou React e seguindo 
 ## O que será avaliado
 Queremos avaliar sua capacidade de desenvolver e documentar um front-end para uma aplicação com back-end pronto. Serão avaliados:
 - Código bem escrito e limpo;
-- Quais ferramentas foram usadas e por quê;
+- Quais ferramentas foram usadas e porque;
 - Seu conhecimento em JS, HTML e CSS;
 - Sua capacidade de seguir a especificação fornecida (wireframe);
 - Sua capacidade de documentar o que você fez.
