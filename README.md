@@ -1,4 +1,4 @@
-# Desafio Desenvolvedor Fronted
+# Desafio Desenvolvedor Front-end
 
 Bem vindo ao desafio para Desenvolvedor Front-end.
 
@@ -29,16 +29,16 @@ Queremos avaliar sua capacidade de desenvolver e documentar um front-end para um
 - README.md contendo informações básicas do projeto e como executá-lo.
 
 ### Diferenciais
-- Testes no front-end (unitário, cypress);
+- Testes no front-end (unitário com jest, e2e com cypress);
 - Responsividade;
-- Ferramentas adicionais que facilitem o seu trabalho (eslint, prettier, webpack/vitl);
+- Ferramentas adicionais que facilitem o seu trabalho (eslint, prettier, webpack/vite);
 - Cuidados especiais com otimização, SEO, entre outros;
-- Docker;
+- Containerização com Docker;
 - Outras sugestões que você tenha.
 
 ## Wireframes
 
-TODO
+![Prototype](https://user-images.githubusercontent.com/39882671/151798343-706b74be-8780-4a04-a80c-2a6ca52b160f.png)
 
 ## APIs
 
