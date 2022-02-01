@@ -38,9 +38,22 @@ Queremos avaliar sua capacidade de desenvolver e documentar um front-end para um
 
 ## Wireframes
 
-![Prototype](https://user-images.githubusercontent.com/39882671/151798343-706b74be-8780-4a04-a80c-2a6ca52b160f.png)
+### Tela inicial
+![Home](https://user-images.githubusercontent.com/39882671/152025499-e79b10a4-7245-4303-af2c-ffd4bf2895f6.png)
 
-## APIs
+### Tela inicial com os dados Preenchidos
+![Dados Preenchidos](https://user-images.githubusercontent.com/39882671/152025603-25448432-572f-4aad-b4b1-0fa693b5788e.png)
+
+### Dados invalidos
+![Error](https://user-images.githubusercontent.com/39882671/152025628-032e0c0f-b468-44de-942e-3c6c196f38fa.png)
+
+### Exibição de dados do retorno da API
+![Exibição de retorno dos dados da API](https://user-images.githubusercontent.com/39882671/152025761-f0353d38-9c80-4dee-8b37-e8ce84d1dd66.png)
+
+
+
+## APIs!
+
 
 TODO
 
