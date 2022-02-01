@@ -24,7 +24,7 @@ Queremos avaliar sua capacidade de desenvolver e documentar um front-end para um
 - Sua capacidade de documentar o que você fez.
 
 ### O mínimo esperado
-- Desenvolver o front-end de acordo com o wireframe fornecido;
+- Desenvolver o front-end de acordo com o wireframe fornecido, sendo que o gráfico não é obrigatório;
 - Utilizar as APIs disponibilizada na documentação;
 - README.md contendo informações básicas do projeto e como executá-lo.
 
@@ -44,18 +44,15 @@ Queremos avaliar sua capacidade de desenvolver e documentar um front-end para um
 ### Tela inicial com os dados Preenchidos
 ![Dados Preenchidos](https://user-images.githubusercontent.com/39882671/152025603-25448432-572f-4aad-b4b1-0fa693b5788e.png)
 
-### Dados invalidos
+### Dados inválidos
 ![Error](https://user-images.githubusercontent.com/39882671/152025628-032e0c0f-b468-44de-942e-3c6c196f38fa.png)
 
 ### Exibição de dados do retorno da API
 ![Exibição de retorno dos dados da API](https://user-images.githubusercontent.com/39882671/152025761-f0353d38-9c80-4dee-8b37-e8ce84d1dd66.png)
 
+## API
 
-
-## APIs!
-
-
-TODO
+https://github.com/eqi-investimentos/desafio-fake-api
 
 ## Entregando o desafio
 
