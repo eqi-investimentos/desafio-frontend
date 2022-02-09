@@ -60,7 +60,7 @@ Validar o tipo dos campos e em caso de erro mostrar uma mensagem e colocar o lab
 
 ![Exibição de retorno dos dados da API](https://user-images.githubusercontent.com/39882671/152025761-f0353d38-9c80-4dee-8b37-e8ce84d1dd66.png)
 
-Ao clicar no botão "Simular" você deverá chamar a API Fake por GET (sim, nós sabemos) e retornar os dados para a tela. Independente do valor que o usuário colocar, o retorno será o mesmo, a única coisa que você deverá se preocupar é com o tipo de indexação e tipo de investimento.
+Ao clicar no botão "Simular" você deverá chamar a API Fake por GET (sim, nós sabemos) e retornar os dados para a tela. Independente do valor que o usuário colocar, o retorno será o mesmo, a única coisa que você deverá se preocupar é com o tipo de indexação e tipo de rendimento (os dois campos iniciais do formulário).
 
 ## API Documentação
 
